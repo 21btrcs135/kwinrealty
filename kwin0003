@@ -391,11 +391,13 @@
             </p>
             
             <div style="text-align: center; margin-bottom: 20px;">
-                <a href="https://maps.app.goo.gl/iVpQvDu6WwYBpXAMA" target="_blank" style="background: #4CAF50; color: white; padding: 10px 20px; border-radius: 25px; text-decoration: none; display: inline-block; font-weight: bold; transition: all 0.3s ease;">
+                 <!--<a href="https://maps.app.goo.gl/8dsL3wLM7WXYkKtK9" target="_blank" style="background: #4CAF50; color: white; padding: 10px 20px; border-radius: 25px; text-decoration: none; display: inline-block; font-weight: bold; transition: all 0.3s ease;">
                     🗺️ View on Google Maps
-                </a>
+                </a> -->
+   
+                <iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3883.386989645441!2d77.7224616750815!3d13.263739987079186!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMTPCsDE1JzQ5LjUiTiA3N8KwNDMnMzAuMSJF!5e0!3m2!1sen!2sin!4v1756605311266!5m2!1sen!2sin" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
             </div>
-            
             <div class="distance-grid">
                 <div class="distance-item">
                     <div class="distance-icon">✈️</div>
